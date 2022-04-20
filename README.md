@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrucePee
-- 👀 <h1>Hi</h1>
+- 👀 <p style="color : red;">I 'm an Average 14 yo programmer</p>
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me CamBath#9232
